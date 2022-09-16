@@ -1,0 +1,10 @@
+<html>
+    <head>
+        @livewireStyle
+    </head>
+    <body>
+        livewire
+        <livewire:counter/>
+        @livewireScripts
+    </body>
+</html>
